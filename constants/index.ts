@@ -28,6 +28,6 @@ export const sidebarLinks = [
   ];
   
   export const avatarImages = [
-    '/images/pic-ht.jpeg',
+   
     
   ];
